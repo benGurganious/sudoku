@@ -1,4 +1,4 @@
 sudoku
 ======
 
-Copyright 2014 Benjamin Gurganious
+Copyright 2015 Benjamin Gurganious
